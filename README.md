@@ -5,3 +5,4 @@
 - plotData:分析数据
 - call_dall:python调用dll
 - Socket:通过网络传输图片
+- cal_dataset_mean_std：计算数据集均值和方差
